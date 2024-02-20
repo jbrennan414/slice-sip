@@ -1,0 +1,6 @@
+name: Deploy changes to AWS
+
+on:
+  push:
+    branches:
+      - main
